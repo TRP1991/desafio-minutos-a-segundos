@@ -21,3 +21,4 @@ def to_minutes(array)
 end
 
 seconds = [100, 50, 1000, 5000, 1000, 500]
+to_minutes(seconds)
